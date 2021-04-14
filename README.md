@@ -13,7 +13,7 @@ Python
 
 Clone the repository to your machine using:
 ```console
-git clone https://github.com/Edyta-Budny/trapped_knight.git
+$ git clone https://github.com/Edyta-Budny/trapped_knight.git
 ```
 
 Install dependencies using:
