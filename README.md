@@ -25,3 +25,7 @@ Run a project using:
 ```console
 $ python main.py
 ```
+
+Result:
+
+![Result](figure.png)
